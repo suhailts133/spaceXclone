@@ -155,7 +155,6 @@ header{
 
 
 .event{
-    font-family: 'din-bold';
     font-size: 47px;
 }
 
@@ -261,4 +260,3 @@ footer{
     animation: fadeInOut 3s infinite; /* Apply the animation */
     opacity: 0; /* Ensure it starts invisible */
 }
-
